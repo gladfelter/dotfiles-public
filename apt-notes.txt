@@ -1,0 +1,20 @@
+# --- SYSTEM ---
+build-essential
+cmake
+git
+curl
+jq
+shellcheck
+vim-gtk3
+tmux
+
+# --- LANGUAGES ---
+# (Node.js is handled via NodeSource in the script)
+python3-pip
+python3-venv
+pipx
+openjdk-17-jdk
+
+# --- MOBILE / CLOUD ---
+google-android-cmdline-tools-11.0-installer
+cuda-toolkit-13.2

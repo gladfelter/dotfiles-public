@@ -1,0 +1,10 @@
+{
+  "lastChangelogVersion": "0.74.0",
+  "defaultProvider": "gemini-limited",
+  "defaultModel": "gemini-flash-lite-latest",
+  "defaultThinkingLevel": "high",
+  "packages": [
+    "npm:pi-web-access",
+    "/home/YOUR_USERNAME/projects/-agent-browser"
+  ]
+}

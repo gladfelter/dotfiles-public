@@ -1,0 +1,16 @@
+age
+build-essential
+cmake
+curl
+ffmpeg
+git
+jq
+openjdk-17-jdk
+pipx
+python3-pip
+python3-venv
+shellcheck
+ssh
+tmux
+vim-gtk3
+zip

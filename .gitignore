@@ -1,0 +1,22 @@
+# Secrets
+.secrets
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+*.swp
+*~
+.vscode/settings.json
+.vscode/mcp.json
+
+# Node
+node_modules/
+
+# Pi agent (generated on each machine)
+!.pi/agent/
+.pi/agent/sessions/
+.pi/agent/bin/
+pi-agent/secrets.age.txt

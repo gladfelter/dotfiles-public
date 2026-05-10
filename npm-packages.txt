@@ -1,0 +1,7 @@
+@mariozechner/pi-coding-agent
+agent-browser
+eslint
+eslint-config-prettier
+pi-agent-browser
+pi-web-access
+prettier
